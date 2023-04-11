@@ -9,7 +9,10 @@ const person = {
 let team = players;
 let team1 =  ["John", "Bob", "Alice", "Poppy"];
 
-const cap1 = person;
+const cap1 = {
+  name: "John Doe",
+  age: 80,
+};
 
 
 
